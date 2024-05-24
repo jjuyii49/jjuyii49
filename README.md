@@ -5,7 +5,7 @@
 <div align="center">
     <h2> 🎈 About Me 🎈</h2>
     <div>
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=jjuyii49&show_icons=true&title_color=e0508d&text_color=383838&icon_color=e0508d" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jjuyii49&show_icons=true&title_color=e0508d&text_color=383838&icon_color=e0508d" />
       <img height="200" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juyi1004" />
     </div>
     <p>삼성 청년 SW 아카데미 10기</p>
